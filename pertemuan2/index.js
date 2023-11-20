@@ -1,0 +1,20 @@
+console.log("Margaretha Misnawati");
+console.log("Siti Kelilauw");
+console.log("Sutiyani Rumatiga");
+console.log("Manajemen Informatika");
+console.log("Fakfak");
+console.log("Pemrograman Berorientasi objek 1");
+console.log("Kelas 2D");
+console.log("1 + 2");
+console.log(1 + 2);
+angka1 =2;
+angka2 =3;
+jumlah = angka1 + angka2;
+kurang = angka1 - angka2;
+console.log("Hasil jumlah = " + jumlah +" dan hasil kurang =" + kurang);
+console.log("Hasil kurang = "+ kurang);
+nama = "Pramudita Cahyani Putri Patty";
+alamat = "Prabu";
+umur = 19;
+console.log("Nama Saya = "+ nama+", Alamat Saya = "+alamat+", Umur Saya = "+ umur + " Tahun ");
+
